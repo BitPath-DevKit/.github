@@ -14,6 +14,7 @@ BitPath Devkit documentation consists of 2 types are as follows,
 > The User Guide documentation, designed with simplicity in mind, is primarily for those who use the golden image that BitPath provides to effortlessly collect the data from the receiver via Redis-server.   
 > **[Working With Golden Image](https://github.com/BitPath-DevKit/.github/blob/main/Documentation/User%20Guide/Working%20with%20Golden%20Image.pdf)**    
 >	- To get started with the golden image, you need to download it from AWS S3 Bucket and clone it to the SD Card.   
+>    
 > **[User Guide](https://github.com/BitPath-DevKit/.github/blob/main/Documentation/User%20Guide/UserGuide.pdf)**   
 >	- Once you have successfully installed the Golden Image, the User Guide provides a step-by-step guide on how to collect data from the Redis server remotely.    
 
